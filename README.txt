@@ -1,0 +1,1 @@
+Primer README.txt, de la carpeta Hello-saludos. Practicas con github, consola y git-it.
